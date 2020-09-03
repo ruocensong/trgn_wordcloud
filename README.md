@@ -35,9 +35,6 @@ Html2text is for converting .html files to text.
   <head>
    <meta charset="utf-8">
    <title>My Wordcloud</title>
-   <style>
-     body{text-align:center}
-   </style>
   </head>
   <body>
    <h1> Wordcloud summary</h1>
